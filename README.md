@@ -1,4 +1,4 @@
-# Rogers' model recast and resolved as an agent-based model
+# Rogers' model recast as an agent-based model
 
 This is an agent-based model that was created as a final project for the graduate course, *Agent-based modeling and simulation* (ANTH 547), taught by Dr. Luke Premo in the Anthropology Department at Washington State University. The model was created in Netlogo 5.3.1, which was designed to replicate the original model from a classic paper (Rogers, 1988).
 
